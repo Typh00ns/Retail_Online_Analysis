@@ -46,32 +46,39 @@ pip install -r requirements.txt
     Reports/: Detailed PDF.
 
 ## Repository Structure
-Retail_Online_Analysis/
-├── README.md
-├── requirements.txt
-├── Data/
-│   ├── Raw/
-│   │   ├── online_retail.xlsx
-│   ├── Processed/
-│       ├── retail_sales_cleaned.csv
-│       ├── cancellation_transactions_cleaned.csv
-│       ├── bulk_sales_cleaned.csv
-│       ├── bulk_cancellations_cleaned.csv
-├── Notebooks/
-│   ├── Data_Cleaning/
-│   │   ├── online_retail_ll_data_cleaning.ipynb
-│   ├── Retail_Analysis/
-│   │   ├── retail_analysis.ipynb
-│   │   ├── retail_cancellations_analysis.ipynb
-│   ├── Bulk_Analysis/
-│       ├── bulk_analysis.ipynb
-│       ├── bulk_cancellations_analysis.ipynb
-├── Graphs/
-    ├── Sales_Trends.png
-    ├── Customer_Segmentation.png
-    ├── Cancellation_Impact.png
-    ├── Bulk_Purchases_Analysis.png
-    ├── Bulk_Cancellations_Heatmap.png
+
+Retail_Online_Analysis/  
+├── **README.md**  
+├── **requirements.txt**  
+
+**Data/**  
+├── **Raw/**  
+│   ├── `online_retail.xlsx`  
+
+├── **Processed/**  
+│   ├── `retail_sales_cleaned.csv`  
+│   ├── `cancellation_transactions_cleaned.csv`  
+│   ├── `bulk_sales_cleaned.csv`  
+│   ├── `bulk_cancellations_cleaned.csv`  
+
+**Notebooks/**  
+├── **Data_Cleaning/**  
+│   ├── `online_retail_ll_data_cleaning.ipynb`  
+
+├── **Retail_Analysis/**  
+│   ├── `retail_analysis.ipynb`  
+│   ├── `retail_cancellations_analysis.ipynb`  
+
+├── **Bulk_Analysis/**  
+│   ├── `bulk_analysis.ipynb`  
+│   ├── `bulk_cancellations_analysis.ipynb`  
+
+**Graphs/**  
+├── `MoM sales growth.png`  
+├── `Top 20 costumers.png`  
+├── `Cancellation rate.png`  
+├── `...ect.png`  
+
 
 ---
 
