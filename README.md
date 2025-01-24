@@ -33,7 +33,7 @@ This project explores the Online Retail II dataset to identify key trends, analy
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Retail_Online_Analysis.git
+   git clone https://github.com/Typh00ns/Retail_Online_Analysis.git
 
 2. Install the required libraries:
 
