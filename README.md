@@ -50,7 +50,7 @@ pip install -r requirements.txt
 Retail_Online_Analysis/  
 ├── **README.md**  
 ├── **requirements.txt**
-├── **Online_retail_ll_analysis-1.pdf**  
+├── **Online_retail_ll_analysis-1.pdf**
 
 **Data/**  
 ├── **Raw/**  
